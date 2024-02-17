@@ -1,1 +1,2 @@
-import psycopg2
+grant = "hello world"
+print(grant)
